@@ -1,0 +1,8 @@
+@import "shared.scss";
+
+
+.wrapper {
+   color: lighten($text-color,10%);
+   background-color: darken($text-color,10%);
+
+}
